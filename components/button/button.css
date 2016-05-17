@@ -1,0 +1,50 @@
+/**
+ * Button
+ */
+
+.biz-button {
+    font-family: "Microsoft Yahei", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: #ffffff;
+    display: inline-block;
+    height: 30px;
+    line-height: normal;
+    margin: 0 10px 0 0;
+    padding: 5px 15px;
+    border: 0;
+    border-radius: 2px;
+    cursor: pointer;
+    text-align: center;
+    outline: none;
+    vertical-align: middle;
+    background-color: #007aff;
+}
+
+.biz-button:hover {
+    background-color: #3395ff;
+}
+
+.biz-button:active {
+    background-color: #006ee6;
+}
+
+.biz-button-disable {
+    background-color: #dedede;
+    cursor: default;
+}
+
+.biz-button-disable:hover {
+    color: #b6b6b6;
+}
+
+.biz-button-dark {
+    background-color: #707070;
+}
+
+.biz-button-dark:hover {
+    background-color: #8a8a8a;
+}
+
+.biz-button-dark:active {
+    background-color: #636363;
+}

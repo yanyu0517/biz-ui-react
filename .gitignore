@@ -31,3 +31,12 @@ node_modules
 
 # Optional REPL history
 .node_repl_history
+
+# Dist directory
+dist
+
+# Demo Page
+components/button/demo/index.html
+
+# webpack assets
+webpack-assets.json
